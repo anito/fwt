@@ -4,4 +4,4 @@
 //
 
 // Override this to use your project specific PHONEGAPLIB
-PHONEGAPLIB = /Users/steven97_007/Documents/DW_NAF/PhoneGapLib
+PHONEGAPLIB = /Library/Server/Web/Data/Sites/webpremiere.dev/fwt/fwt/com.companyname.testapp_iOS/PhoneGapLib
