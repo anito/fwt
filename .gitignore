@@ -1,16 +1,14 @@
-#Logs
-application/logs/*.php
-
-# Content types
-/application/xml/types/*.xml
-
-# Custom builds and generated php files
-/core/documentation/build
-/core/views/admin/content/translations.php
-
-# Attachs and cache files #
-*.tmp
-/attach/cache/
-/attach/
-/application/cache/_bancha/*.css
-/application/cache/_bancha/*.js
+*.psd
+.DS_Store
+=======
+nbproject
+/app/tmp/*
+/uploads/photos/
+/app/Config/database.php
+/app/webroot/js/spine/director/node_modules/.bin/
+/app/webroot/js/spine/director/node_modules/hem/node_modules/.bin/
+/app/webroot/js/spine/director/node_modules/hem/node_modules/strata/node_modules/.bin/
+/app/webroot/js/spine/director/node_modules/hem/node_modules/stylus/node_modules/cssom/.idea/
+/app/webroot/js/spine/director/node_modules/serveup/node_modules/.bin/
+*.graffle
+_notes
